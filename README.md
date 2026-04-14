@@ -50,6 +50,8 @@ HappyHorse did not follow a normal launch path.
 
 It did not begin with a large public launch, a normal product page, or a widely available API. Instead, it drew attention because of its performance on Artificial Analysis, where it appeared as a top-ranked video model. 
 
+![happy-horse-rankings](happy-horse-rankings.jpg)
+
 That made people ask the same questions right away:
 
 - What is this model?
@@ -76,6 +78,8 @@ Alibaba later said HappyHorse belongs to its ATH unit. Reports also said the mod
 
 ### 4. Access is still limited
 Current information suggests the model has started public testing, but it is not yet open to the general public. Access still appears restricted. 
+
+![happy-horse-x](happyhorse-x.jpg)
 
 ---
 
@@ -106,9 +110,9 @@ To make this page more concrete, here are several comparison videos shared by Ar
 
 | Type | Compared Models | Prompt | Video |
 |---|---|---|---|
-| Multi-model comparison | HappyHorse-1.0, Dreamina Seedance 2.0, Kling 3.0 Pro, grok-video-imagine, PixVerse V6 | A basketball bouncing on an empty indoor court, creating a loud, rhythmic echo with every slap against the polished hardwood floor, punctuated by the sharp squeak of rubber sneakers. | [View on X](https://x.com/ArtificialAnlys/status/2042468647256670467?s=20) |
-| Multi-model comparison | HappyHorse-1.0, Dreamina Seedance 2.0, Kling 3.0 Pro, grok-video-imagine, PixVerse V6 | A flashlight beam exploring a cave system, illuminating wet limestone formations. The light catches crystalline calcite deposits that glitter and flash. Where the beam passes through shallow standing water, it creates bright caustic patterns on the submerged floor. Stalactites cast long, swinging shadows as the flashlight moves. **Audio:** Dripping water echoing, footsteps on wet rock, breathing in enclosed space. | [View on X](https://x.com/ArtificialAnlys/status/2042468720732488173?s=20) |
-| Multi-model comparison | HappyHorse-1.0, Dreamina Seedance 2.0, Kling 3.0 Pro, grok-video-imagine, PixVerse V6 | A Pixar-style short about a nervous little traffic cone who dreams of being a finish line pylon at a major race. Other cones mock its ambitions. A construction worker accidentally places it at a marathon finish line. The cone's painted face shifts from terror to joy as runners pass. Confetti falls on its cone head. Other cones watch on TV, inspired. **Audio:** Traffic sounds becoming crowd cheers, inspirational swelling music. | [View on X](https://x.com/ArtificialAnlys/status/2042468581066359203?s=20) |
+| Multi-model comparison | HappyHorse-1.0, Dreamina Seedance 2.0, Kling 3.0 Pro, grok-video-imagine, PixVerse V6 | A basketball bouncing on an empty indoor court, creating a loud, rhythmic echo with every slap against the polished hardwood floor, punctuated by the sharp squeak of rubber sneakers. | <video src="https://github.com/user-attachments/assets/1ea11e7c-8541-47dc-889f-22ca0bf3936f" controls width="700"></video> |
+| Multi-model comparison | HappyHorse-1.0, Dreamina Seedance 2.0, Kling 3.0 Pro, grok-video-imagine, PixVerse V6 | A flashlight beam exploring a cave system, illuminating wet limestone formations. The light catches crystalline calcite deposits that glitter and flash. Where the beam passes through shallow standing water, it creates bright caustic patterns on the submerged floor. Stalactites cast long, swinging shadows as the flashlight moves. **Audio:** Dripping water echoing, footsteps on wet rock, breathing in enclosed space. | <video src="https://github.com/user-attachments/assets/97958925-70dc-4232-a347-5087e873c2a2" controls width="700"></video> |
+| Multi-model comparison | HappyHorse-1.0, Dreamina Seedance 2.0, Kling 3.0 Pro, grok-video-imagine, PixVerse V6 | A Pixar-style short about a nervous little traffic cone who dreams of being a finish line pylon at a major race. Other cones mock its ambitions. A construction worker accidentally places it at a marathon finish line. The cone's painted face shifts from terror to joy as runners pass. Confetti falls on its cone head. Other cones watch on TV, inspired. **Audio:** Traffic sounds becoming crowd cheers, inspirational swelling music. | <video src="https://github.com/user-attachments/assets/ab23bfac-52b9-499d-b3a5-833aa28718c8" controls width="700"></video> |
 
 > Note: All examples in this section are multi-model comparison videos rather than HappyHorse-only samples.
 
