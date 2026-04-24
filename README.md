@@ -2,6 +2,8 @@
 
 A simple guide to HappyHorse 1.0, the new AI video model that quickly drew attention after ranking above several major video models on Artificial Analysis. Alibaba later said the model belongs to its ATH unit and is still in testing, with access still limited for now. 
 
+**HappyHorse 1.0 is live on [SeeGen AI](https://seegen.ai/generate?utm_sorce=happy)**
+
 ---
 
 ## 🎬 Table of Contents
